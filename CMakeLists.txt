@@ -12,3 +12,4 @@ setup_executable(d1p2 day-01/part-2.cpp)
 
 
 setup_executable(d3p1 day-03/part-1.cpp)
+setup_executable(d3p2 day-03/part-2.cpp)
